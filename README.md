@@ -1,1 +1,1 @@
-# machine-learning-with-python_cognitive_class_course
+# machine-learning-with-python (cognitive class course)
